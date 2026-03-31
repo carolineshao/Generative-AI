@@ -5,8 +5,9 @@ One problem area I care about is aphasia support and brain injury rehabilitation
 
 Generative AI might be useful in this area in several ways:
 
-It can help create simple and personalized communication exercises for patients.
-It can support caregivers by explaining medical or therapy information in easier language.
+1. It can help create simple and personalized communication exercises for patients.
+2. It can support caregivers by explaining medical or therapy information in easier language.
+3. It can be a great tool for physicians and therapists to support them.
 
 
 What I changed myself?
