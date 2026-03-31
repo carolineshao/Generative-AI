@@ -12,4 +12,4 @@ I created a public GitHub repository, added the required files, edited the markd
 - Update README with workflow summary and video link
 
 ## Video link
-Add your video link here.
+https://youtu.be/cGG85YxzPwY
